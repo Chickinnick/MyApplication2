@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_item_home">Главная</string>
+    <string name="drawer_item_news">Новости и акции</string>
+    <string name="drawer_item_shops">Магазины и скидки</string>
+    <string name="drawer_item_contact">Контакты</string>
+    <string name="drawer_item_account">Мой аккаунт</string>
+    <string name="drawer_item_code">Мой личный код</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_item_entertainment">Развлечения</string>
+</resources>
